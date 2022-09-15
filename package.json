@@ -17,5 +17,9 @@
   "devDependencies": {
     "jest": "27.2.3",
     "uuid": "8.3.2"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs.promises": "^0.1.2"
   }
 }
